@@ -7,13 +7,11 @@
     --fonte01:  Verdana, Geneva, Tahoma, sans-serif;
     --fonte02: 'Passion One', cursive;
     --fonte03: 'Sriracha', cursive;
-
 }
 
 * {
     margin: 0px;
     padding: 0px;
-    font-size: 1em;
     font-size: 1em;
     
 }
@@ -31,7 +29,7 @@ header{
 }
 
 header > h1 {
-    padding: 50px;
+    padding-top: 50px;
     font-variant: small-caps;
     font-family: var(--fonte02);
     font-size: 10vw;
